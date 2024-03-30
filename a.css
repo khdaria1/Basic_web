@@ -1,0 +1,19 @@
+body{
+    font-family: "viewport";
+}
+
+.male{
+    color:rgb(18, 233, 205)
+}
+
+.female{
+    color: rgb(226, 43, 171);
+}
+
+ul{
+    list-style: none;
+}
+
+#ceo{
+    background-color: antiquewhite;
+}

@@ -1,0 +1,18 @@
+/* selector */
+body{
+    font-family: "Tahoma";
+}
+/* class selector */
+.main{
+    color:rgb(166, 31, 63);
+}
+.sub{
+    color:rgb(44, 180, 89);
+}
+
+/*id selector*/
+#useless{
+    color: rgb(134, 17, 244);
+    font-weight: bold;
+    font-size: 30px;
+}

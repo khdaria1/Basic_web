@@ -1,0 +1,19 @@
+body{
+    font-family: "NanumGothic";
+}
+
+ul{
+    list-style: none;
+}
+
+.male{
+    background: rgb(143, 143, 231);
+}
+
+.female{
+     background: pink;
+}
+
+#ceo {
+    color: aquamarine;
+}
